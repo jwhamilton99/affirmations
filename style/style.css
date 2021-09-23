@@ -161,9 +161,9 @@ a:hover {
 	}
 	
 	.screenshot {
-		width:80vw;
-		max-width:500px;
-		margin-top:-75px;
+		width:100%;
+		margin-top:-100px;
+		height:auto;
 	}
 	
 	.featureDisplayLeft {
