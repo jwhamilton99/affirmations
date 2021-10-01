@@ -166,6 +166,10 @@ a:hover {
 		height:auto;
 	}
 	
+	.screenshot:first-child {
+		margin-top:-50px;
+	}
+	
 	.featureDisplayLeft {
 		margin-top:0px;
 		flex-direction:column-reverse;
@@ -184,7 +188,7 @@ a:hover {
 	}
 	
 	#downloadBadge {
-		width:200px;
+		width:50%;
 		margin-bottom:0px;
 	}
 }
